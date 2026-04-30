@@ -294,7 +294,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('./assets/hero_background_1777567888336.png');
+    background-image: url('./assets/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
